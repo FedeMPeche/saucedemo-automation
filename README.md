@@ -11,8 +11,8 @@
 UC-1 → Empty credentials  
 UC-2 → Missing password  
 UC-3 → Valid login  
-UC-4 → Add product to cart after login 
-UC-5 → Add multiple products to cart 
+UC-4 → Add product to cart after login
+UC-5 → Add multiple products to cart
 UC-6 → User removes product from cart
 UC-7 → User logs out successfully
 
